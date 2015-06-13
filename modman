@@ -1,0 +1,2 @@
+app/code/community/MageMash/ImageResizer                        app/code/community/MageMash/ImageResizer/
+app/etc/modules/MageMash_ImageResizer.xml                       app/etc/modules/MageMash_ImageResizer.xml

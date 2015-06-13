@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MageMash_ImageResizer>
+            <version>0.1.0</version>
+        </MageMash_ImageResizer>
+    </modules>
+    <global>
+        <blocks>
+            <magemash_imageresizer>
+                <class>MageMash_ImageResizer_Block</class>
+            </magemash_imageresizer>
+        </blocks>
+        <helpers>
+            <magemash_imageresizer>
+                <class>MageMash_ImageResizer_Helper</class>
+            </magemash_imageresizer>
+        </helpers>
+    </global>
+    <adminhtml>
+
+        <layout>
+            <updates>
+                <magemash_imageresizer>
+                    <file>magemash_imageresizer.xml</file>
+                </magemash_imageresizer>
+            </updates>
+        </layout>
+    </adminhtml>
+</config>
