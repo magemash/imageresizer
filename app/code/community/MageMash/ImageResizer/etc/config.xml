@@ -2,7 +2,7 @@
 <config>
     <modules>
         <MageMash_ImageResizer>
-            <version>0.1.0</version>
+            <version>1.0.0</version>
         </MageMash_ImageResizer>
     </modules>
     <global>
